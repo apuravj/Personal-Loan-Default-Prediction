@@ -16,3 +16,4 @@ print(data.info())
 # Check for missing values in the dataset
 print("\nMissing Values:")
 print(data.isnull().sum())
+
