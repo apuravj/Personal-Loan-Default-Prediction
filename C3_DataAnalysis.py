@@ -38,3 +38,4 @@ if 'Target_Column' in data.columns:  # Replace with the actual column name
     plt.xlabel('Class')
     plt.ylabel('Count')
     plt.show()
+    
