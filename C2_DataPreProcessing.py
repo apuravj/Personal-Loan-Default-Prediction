@@ -23,3 +23,5 @@ data[numeric_columns] = scaler.fit_transform(data[numeric_columns])
 print("\nData Preprocessing Complete!")
 print("First 5 Rows of Processed Data:")
 print(data.head())
+
+ 
